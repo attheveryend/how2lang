@@ -1,0 +1,69 @@
+
+
+//================[{-how to learn a new language well enough to produce efficient code quickly-}]=====================
+
+
+I feel one needs to see the following in order to make sense of things:
+
+	0) what is this language for?
+			i) why does it exist?
+			ii) what problem was it created to solve?
+			iii) what is the overall goal of its design features?
+	
+	1) what does the code look like?
+			i) see a picture or something.
+			ii) find the smallest possible program, i.e. helloworld etc.
+			
+	2) how does it get read?  
+			i) left to right and line by line?  
+			ii) Are things hoisted and moved around?  
+			iii) Does order matter, and where?
+	
+	3) how do we talk about this language?
+			i) what are the words used to describe its concepts, and what do they mean?
+			ii) what sort of words and ideas are protected or make no sense in the contxt of this language?
+			iii) are there terms with seemingly obvious meanings that are in fact jargon?
+	
+	4) what paradigms does this language implement?
+			i) is it procedural?  declarative?  event loop?  low level?  high?  interpreted?  object oriented--and what kind?
+			ii) what other quirks does this language have?
+				a) does it do things wierdly compared to other langauges?  if so what?		
+	
+	5) what is the syntax and order of operations?
+			i) grammar rules.  
+			ii) where declarations go and their form
+			iii) use of brackets or "control structures"
+			iv) math and logic operator symbols and precedence	
+	
+	6) What are its logic structures, and how to use?
+			i) if->then statements?  do we need to be more clever to do these things?
+		
+	7) What are its variables/data structures and how are they used?
+			i) typed?  No?  runtime or compile time checked?
+			ii) arrays?  dynamic?  hash tables?  entire database built in?
+			
+	8) How do I get the code to talk to me?
+			i) what is the console.log() equivalent?
+			
+	9) How does it do loops?
+			i) what loops does it implement?'
+	
+	10) How can I make it fast?
+			i)What are the wrong ways to use this language?  
+			ii)What are good practices?
+			iii) is there an optimizer and how much does it suck?
+	
+	11) what is all the other shit I can do with this language?
+			i) literally everything else in no particular order.  I/O.  memory access.  Math functions.  libraries.  blah blah blah...
+	
+
+	
+//==================={{-some possible questions-}}=====================
+
+	Q:  Why are libraries and functions last?  Aren't those what we want from the start?  Thats where webzones like Tutorialspoint and W3schools start?  Basic functions?  What gives?
+
+	A:	Ultimately we want programming languages because of the "stuff they do," meaning the functions in their libraries and the various implementations thereof.
+		However, in order to easily digest the information presented in those libraries easily and then be able to use those libraries effectively, or distinguish
+		between similar functionalities, one is best served by understanding the fundamentals, the concepts, the grammar, and general motivation behind a particular language.
+		Functional libraries are much easier to read, understand, and recall when you can see them in context, and so one ought to seek context first, content second.
+	
