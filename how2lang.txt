@@ -42,8 +42,9 @@ I feel one needs to see the following in order to make sense of things:
 			i) typed?  No?  runtime or compile time checked?
 			ii) arrays?  dynamic?  hash tables?  entire database built in?
 			
-	8) How do I get the code to talk to me?
+	8) How do I get the code to talk to me?  How can I get immediate feedback on the code I write?
 			i) what is the console.log() equivalent?
+			ii) is there a REPL?  If so, is there anything that does not work when used in REPL format?
 			
 	9) How does it do loops?
 			i) what loops does it implement?'
@@ -53,8 +54,8 @@ I feel one needs to see the following in order to make sense of things:
 			ii)What are good practices?
 			iii) is there an optimizer and how much does it suck?
 	
-	11) what is all the other shit I can do with this language?
-			i) literally everything else in no particular order.  I/O.  memory access.  Math functions.  libraries.  blah blah blah...
+	11) what are all the other things I can do with this language?
+			i) literally everything else in no particular order.  I/O.  memory access.  Math functions.  libraries.  All the tabulated information that really serve only to implement or encode concepts that are understood in principle.
 	
 
 	
